@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+  <dict>
+    <key>PayloadContent</key>
+    <array>
+      <dict>
+        <key>PayloadDescription</key>
+        <string>Configures all Nudge preferences</string>
+        <key>PayloadDisplayName</key>
+        <string>Nudge Preferences</string>
+        <key>PayloadIdentifier</key>
+        <string>com.github.macadmins.Nudge.preferences.example</string>
+        <key>PayloadOrganization</key>
+        <string></string>
+        <key>PayloadType</key>
+        <string>com.github.macadmins.Nudge</string>
+        <key>PayloadUUID</key>
+        <string>746a5f23-6363-4302-958f-4535e2ed1a16</string>
+        <key>PayloadVersion</key>
+        <integer>1</integer>
+        <key>osVersionRequirements</key>
+        <array>
+          <dict>
+            <key>requiredInstallationDate</key>
+            <date>2023-05-31T00:00:00Z</date>
+            <key>requiredMinimumOSVersion</key>
+            <string>13.4</string>
+            <key>targetedOSVersions</key>
+            <array>
+              <string>13.0</string>
+              <string>13.1</string>
+              <string>13.2</string>
+              <string>13.2.1</string>
+            </array>
+          </dict>
+        </array>
+      </dict>
+    </array>
+    <key>PayloadDescription</key>
+    <string>Configures Nudge application</string>
+    <key>PayloadDisplayName</key>
+    <string>Nudge</string>
+    <key>PayloadIdentifier</key>
+    <string>com.github.macadmins.Nudge.example</string>
+    <key>PayloadOrganization</key>
+    <string>Nudge</string>
+    <key>PayloadScope</key>
+    <string>System</string>
+    <key>PayloadType</key>
+    <string>Configuration</string>
+    <key>PayloadUUID</key>
+    <string>d9d06310-7e21-4c03-be44-8d9b04571c0c</string>
+    <key>PayloadVersion</key>
+    <integer>1</integer>
+  </dict>
+</plist>
