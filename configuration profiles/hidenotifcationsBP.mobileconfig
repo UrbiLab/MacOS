@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd"&gt;
+<plist version="1.0">
+<dict>
+	<key>PayloadContent</key>
+	<array>
+		<dict>
+			<key>NotificationSettings</key>
+			<array>
+				<dict>
+					<key>BundleIdentifier</key>
+					<string>com.apple.BTMNotificationAgent</string>
+					<key>NotificationsEnabled</key>
+					<false/>
+				</dict>
+			</array>
+			<key>PayloadIdentifier</key>
+			<string>com.apple.notificationsettings.4189301c-d4a4-445a-af37-3f88ae30b3fa</string>
+			<key>PayloadType</key>
+			<string>com.apple.notificationsettings</string>
+			<key>PayloadUUID</key>
+			<string>4189301c-d4a4-445a-af37-3f88ae30b3fa</string>
+			<key>PayloadVersion</key>
+			<integer>1</integer>
+		</dict>
+	</array>
+	<key>PayloadDescription</key>
+	<string>Disable Background Task Management Notifications</string>
+	<key>PayloadDisplayName</key>
+	<string>Disable Background Task Management Notifications</string>
+	<key>PayloadIdentifier</key>
+	<string>com.apple.notificationsettings.315e5ad0-99a4-4942-84ad-3ef2706ff00c</string>
+	<key>PayloadScope</key>
+	<string>System</string>
+	<key>PayloadType</key>
+	<string>Configuration</string>
+	<key>PayloadUUID</key>
+	<string>315e5ad0-99a4-4942-84ad-3ef2706ff00c</string>
+	<key>PayloadVersion</key>
+	<integer>1</integer>
+</dict>
+</plist>
