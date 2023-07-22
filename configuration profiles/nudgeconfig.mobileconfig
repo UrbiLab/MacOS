@@ -94,9 +94,9 @@
 					<key>forceScreenShotIcon</key>
 					<true />
 					<key>iconDarkPath</key>
-					<string>/Library/Intune/petrol_logo_slogan_vertical_rgb.png</string>
+					<string>path to image</string>
 					<key>iconLightPath</key>
-					<string>/Library/Intune/petrol_logo_slogan_vertical_rgb.png</string>
+					<string>path to image</string>
 					<key>screenShotDarkPath</key>
 					<string>/tmp/nudge/updateDark.png</string>
 					<key>screenShotLightPath</key>
