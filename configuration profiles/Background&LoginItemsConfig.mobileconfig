@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd"&gt;
+<plist version="1.0">
+<dict>
+	<key>PayloadContent</key>
+	<array>
+		<dict>
+			<key>PayloadDescription</key>
+			<string>Login and Background Item Management</string>
+			<key>PayloadDisplayName</key>
+			<string>Login and Background Item Management</string>
+			<key>PayloadIdentifier</key>
+			<string>com.apple.servicemanagement.d0a1f797-6bf3-441f-b1fa-9a3a799e97e5</string>
+			<key>PayloadType</key>
+			<string>com.apple.servicemanagement</string>
+			<key>PayloadUUID</key>
+			<string>d0a1f797-6bf3-441f-b1fa-9a3a799e97e5</string>
+			<key>Rules</key>
+			<array>
+				<dict>
+					<key>Comment</key>
+					<string>Zoom</string>
+					<key>RuleType</key>
+					<string>TeamIdentifier</string>
+					<key>RuleValue</key>
+					<string>BJ4HAAB9B3</string>
+				</dict>
+				<dict>
+					<key>Comment</key>
+					<string>TeamViewer</string>
+					<key>RuleType</key>
+					<string>BundleIdentifier</string>
+					<key>RuleValue</key>
+					<string>com.teamviewer.TeamViewer</string>
+				</dict>
+				<dict>
+					<key>Comment</key>
+					<string>Microsoft AutoUpdate</string>
+					<key>RuleType</key>
+					<string>BundleIdentifierPrefix</string>
+					<key>RuleValue</key>
+					<string>com.microsoft.autoupdate2</string>
+				</dict>
+				<dict>
+					<key>Comment</key>
+					<string>Vpn helper</string>
+					<key>RuleType</key>
+					<string>LabelPrefix</string>
+					<key>RuleValue</key>
+					<string>com.cisco.anyconnect.ciscod</string>
+				</dict>
+				<dict>
+					<key>Comment</key>
+					<string>Nudge</string>
+					<key>RuleType</key>
+					<string>Label</string>
+					<key>RuleValue</key>
+					<string>com.github.macadmins.Nudge</string>
+				</dict>
+			</array>
+		</dict>
+	</array>
+	<key>PayloadDescription</key>
+	<string>Login and Background Item Management</string>
+	<key>PayloadDisplayName</key>
+	<string>Login and Background Item Management</string>
+	<key>PayloadIdentifier</key>
+	<string>com.apple.servicemanagement.07b19abc-e24f-4746-9293-75bff43eb6cf</string>
+	<key>PayloadScope</key>
+	<string>System</string>
+	<key>PayloadType</key>
+	<string>Configuration</string>
+	<key>PayloadUUID</key>
+	<string>07b19abc-e24f-4746-9293-75bff43eb6cf</string>
+	<key>PayloadVersion</key>
+	<integer>1</integer>
+</dict>
+</plist>
