@@ -72,11 +72,11 @@
 <key>PayloadDisplayName</key>
 <string>name</string>
 <key>PayloadIdentifier</key>
-<string>com.apple.mdm.macbook.local.1b227119-5121-4a29-8110-b7e611de19df.alacarte.directory.3F4A08E0-39C5-46F2-B1FF-1AF5830BBCD7</string>
+<string>com.apple.mdm.macbook.local.cf401d59-57d8-47c9-a0c8-c1fc8afb757d.alacarte.directory.92ce2538-54fd-424c-8cf4-eac45139f851/string>
 <key>PayloadType</key>
 <string>com.apple.DirectoryService.managed</string>
 <key>PayloadUUID</key>
-<string>3F4A08E0-39C5-46F2-B1FF-1AF5830BBCD7</string>
+<string>92ce2538-54fd-424c-8cf4-eac45139f851</string>
 <key>PayloadVersion</key>
 <integer>1</integer>
 <key>UserName</key>
@@ -86,7 +86,7 @@
 <key>PayloadDisplayName</key>
 <string>ActiveDirectory</string>
 <key>PayloadIdentifier</key>
-<string>com.apple.mdm.macbook.local.1b227119-5121-4a29-8110-b7e611de19df.alacarte</string>
+<string>com.apple.mdm.macbook.local.cf401d59-57d8-47c9-a0c8-c1fc8afb757d.alacarte</string>
 <key>PayloadRemovalDisallowed</key>
 <false/>
 <key>PayloadScope</key>
@@ -94,7 +94,7 @@
 <key>PayloadType</key>
 <string>Configuration</string>
 <key>PayloadUUID</key>
-<string>1b227119-5121-4a29-8110-b7e611de19df</string>
+<string>cf401d59-57d8-47c9-a0c8-c1fc8afb757d/string>
 <key>PayloadVersion</key>
 <integer>1</integer>
 </dict>
