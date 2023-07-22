@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+	<dict>
+		<key>PayloadContent</key>
+		<array>
+			<dict>
+				<key>ADDomain</key>
+				<string>your domain</string>
+				<key>BackgroundImage</key>
+				<string>path to image</string>
+				<key>LDAPServers</key>
+				<array />
+				<key>LoginLogo</key>
+				<string>path to image</string>
+				<key>LoginScreen</key>
+				<true />
+				<key>MessagePasswordSync</key>
+				<string>Sync the password!</string>
+				<key>PayloadDisplayName</key>
+				<string>NoMAD Login</string>
+				<key>PayloadIdentifier</key>
+				<string>menu.nomad.login.ad.bb9af0a4-c88f-4b91-85c3-fea49364e4c1</string>
+				<key>PayloadType</key>
+				<string>menu.nomad.login.ad</string>
+				<key>PayloadUUID</key>
+				<string>e1c520f5-11fe-4ab5-9d1d-7c18dfb75d0a</string>
+				<key>PayloadVersion</key>
+				<integer>1</integer>
+			</dict>
+		</array>
+		<key>PayloadDisplayName</key>
+		<string>NomadLogin-produkcija</string>
+		<key>PayloadIdentifier</key>
+		<string>hostname.6afeb8fc-4f76-4c28-98f0-eb53405445db</string>
+		<key>PayloadOrganization</key>
+		<string>Name</string>
+		<key>PayloadRemovalDisallowed</key>
+		<true />
+		<key>PayloadScope</key>
+		<string>System</string>
+		<key>PayloadType</key>
+		<string>Configuration</string>
+		<key>PayloadUUID</key>
+		<string>15cec212-1c2b-4426-bec0-68372db49aa4</string>
+		<key>PayloadVersion</key>
+		<integer>1</integer>
+	</dict>
+</plist>
