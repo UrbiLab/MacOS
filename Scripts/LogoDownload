@@ -1,0 +1,14 @@
+#!/bin/bash
+# URL slike
+url="www.example.si"
+
+# pot do mape za shrnait
+folder_path="/Library/Intune"
+
+# nardi mapo
+mkdir -p "$folder_path"
+
+# download + shrani sliko
+curl -L "$url" -o "$folder_path/$(basename $url)"
+
+echo "Image saved to $folder_path/$(basename $url)"
