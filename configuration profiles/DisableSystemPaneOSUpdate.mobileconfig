@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>PayloadContent</key>
+	<array>
+		<dict>
+			<key>DisabledPreferencePanes</key>
+			<array>
+				<string>com.apple.preferences.softwareupdate</string>
+			</array>
+			<key>HiddenPreferencePanes</key>
+			<array>
+				<string>com.apple.preferences.softwareupdate</string>
+			</array>
+			<key>PayloadDisplayName</key>
+			<string>System Preferences #1</string>
+			<key>PayloadIdentifier</key>
+			<string>com.apple.systempreferences.ed2d1fa1-11cb-4a87-97e9-8fc105f59139</string>
+			<key>PayloadType</key>
+			<string>com.apple.systempreferences</string>
+			<key>PayloadUUID</key>
+			<string>ed2d1fa1-11cb-4a87-97e9-8fc105f59139</string>
+			<key>PayloadVersion</key>
+			<integer>1</integer>
+		</dict>
+	</array>
+	<key>PayloadDisplayName</key>
+	<string>System Panes</string>
+	<key>PayloadIdentifier</key>
+	<string>host.c1d0b8ca-ec59-4d3a-8774-15ff967e0b37</string>
+	<key>PayloadOrganization</key>
+	<string>Org</string>
+	<key>PayloadScope</key>
+	<string>System</string>
+	<key>PayloadType</key>
+	<string>Configuration</string>
+	<key>PayloadUUID</key>
+	<string>c1d0b8ca-ec59-4d3a-8774-15ff967e0b37</string>
+	<key>PayloadVersion</key>
+	<integer>1</integer>
+</dict>
+</plist>
